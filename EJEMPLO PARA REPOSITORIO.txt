@@ -1,0 +1,5 @@
+Repositorio: GITHUB
+Descripción: DATO INTERESANTE SOBRE GIT
+Control de versiones: Git
+----------------------------------------
+EN ESTE APARTADO USTEDES ANEXARAN SU APORTACION, TIENEN QUE GUARDAR EL TXT PARA SUBIRLO AL REPOSITORIO DE GH 
