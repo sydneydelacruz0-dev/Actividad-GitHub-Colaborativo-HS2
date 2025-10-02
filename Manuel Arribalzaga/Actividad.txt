@@ -1,0 +1,5 @@
+Repositorio: MiPrimerSitioWeb
+Descripción: Proyecto para aprender a usar HTML y CSS. Datos de control de versiones: Git fue creado por Linus Torvalds. SVN es un sistema centralizado. Mercurial es conocido por ser fácil de usar.
+Control de versiones: SVN
+----------------------------------------
+
