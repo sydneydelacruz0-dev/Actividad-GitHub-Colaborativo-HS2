@@ -1,0 +1,9 @@
+Repositorio: Actividad2Unidad2
+Descripción: Repositorio creado para la materia Herramientas de software en la nube
+Control de versiones: Git
+----------------------------------------
+Dato real de Git: Git fue creado en 2005 por Linus Torvalds, el mismo creador de Linux. Es un sistema de control de versiones distribuido, lo que significa que cada persona tiene una copia completa del repositorio. Hoy en día es el más utilizado a nivel mundial gracias a plataformas como GitHub y GitLab.
+
+Dato real de SVN (Subversion): SVN fue lanzado en el año 2000 por la empresa CollabNet como un sucesor mejorado de CVS. Es un sistema de control de versiones centralizado, lo que significa que todo el código se administra desde un servidor principal. Se usa mucho en empresas que requieren control estricto del acceso a los archivos.
+
+Dato real de Mercurial: Mercurial también apareció en 2005, el mismo año que Git. Es un sistema de control de versiones distribuido que se caracteriza por ser rápido y sencillo de usar. Durante varios años fue utilizado por proyectos grandes, como el navegador Firefox desarrollado por Mozilla.
